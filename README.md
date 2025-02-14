@@ -1,5 +1,3 @@
-# Playwright
-
 # Playwright: QA Fundamentals Practice
 
 Welcome to my **Playwright** repository! This project was created to practice core QA activities and hands-on test automation using the [Playwright](https://playwright.dev/) framework. My goal is to build real-world end-to-end tests by exploring the [Ecommerce Playground](https://ecommerce-playground.lambdatest.io/) website, ensuring a deep understanding of how to plan, write, and execute effective automated tests.
