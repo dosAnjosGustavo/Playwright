@@ -46,24 +46,9 @@ export default defineConfig({
   /* Configure projects for major browsers */
   projects: [
     {
-      name: "chromium-with-darkreader",
-      use: {
-        // "channel" can be "chrome" or "chromium"
-        // This example uses Chrome stable if installed
-        channel: "chrome",
-        headless: false,
-        launchOptions: {
-          args: [
-            `--disable-extensions-except=${EXTENSION_PATH}`,
-            `--load-extension=${EXTENSION_PATH}`,
-          ],
-        },
-      },
+      name: "chromium",
+      use: { ...devices["Desktop Chrome"] },
     },
-    // {
-    //   name: "chromium",
-    //   use: { ...devices["Desktop Chrome"] },
-    // },
 
     // {
     //   name: "firefox",
