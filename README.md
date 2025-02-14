@@ -44,7 +44,3 @@ Welcome to my **Playwright** repository! This project was created to practice co
 - CI/CD Integration: Configure GitHub Actions or another CI tool to run tests automatically on each commit or pull request.
 - Advanced Scenarios: Incorporate performance, accessibility, or API testing in conjunction with Playwright.
 - Documentation: Provide detailed guides on testing strategies, environment setup, and best practices.
-
-```
-
-```
