@@ -27,13 +27,17 @@ Welcome to my **Playwright** repository! This project was created to practice co
 2. Install Dependencies
 
    ```bash
-   cd playwright
+   cd Playwright
    npm install
 
    ```
 
 3. Execute Tests
+
+   ```bash
    npx playwright test
+
+   ```
 
 4. View Results
 
