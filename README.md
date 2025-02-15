@@ -20,14 +20,14 @@ Welcome to my **Playwright** repository! This project was created to practice co
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/playwright-qa-fundamentals.git
+   git clone https://github.com/dosAnjosGustavo/Playwright.git
 
    ```
 
 2. Install Dependencies
 
    ```bash
-   cd playwright-qa-fundamentals
+   cd playwright
    npm install
 
    ```
